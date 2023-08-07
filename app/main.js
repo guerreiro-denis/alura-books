@@ -1,5 +1,5 @@
 let livros = [];
-const endPointDaAPI = "https://guilhermeonrails.github.io/casadocodigo/livros.json";
+const endPointDaAPI = "https://raw.githubusercontent.com/guerreiro-denis/alura-books/main/livros.json";
 getBuscarLivrosDaAPI();
 
 
